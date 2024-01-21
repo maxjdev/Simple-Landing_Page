@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Simple Landing Page</h1>
+  <h1>Simple Landing Page <a href="https://ebac-proj-landing-page.vercel.app/">Deploy</a></h1>
 
   ### Techs Used
   
