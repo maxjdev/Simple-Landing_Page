@@ -1,15 +1,22 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90px"><br><br>
-  
-  <h1>Simple Landing Page <a href="https://ebac-proj-landing-page.vercel.app/">Deploy</a></h1>
 
+  <h1>Simple Landing Page</h1>
+
+  ### Techs Used
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+  ### Image
+  
+  <img src="https://i.postimg.cc/x8bGM1RX/Captura-de-tela-de-2023-11-22-15-35-00.png">
+  <img src="https://i.postimg.cc/6pBjJCcz/Captura-de-tela-de-2023-11-22-15-35-17.png">
+  
 </div>
 
-## Images
+## Description
 
-<img src="https://i.postimg.cc/x8bGM1RX/Captura-de-tela-de-2023-11-22-15-35-00.png">
-<img src="https://i.postimg.cc/6pBjJCcz/Captura-de-tela-de-2023-11-22-15-35-17.png">
+Simple landing page using HTML and CSS
 
 ## Contributing
 
@@ -26,8 +33,3 @@ We welcome and appreciate your contributions to this project! Whether you have s
 ## Feedback and Issues
 
 If you have contributions, suggestions, or feedback, feel free to open an issue.
-
-<div align="center">
-  <h2>Full Stack Developer Java: Front-End</h2>
-  <img src="https://i.postimg.cc/3xbR5F7H/rounded-in-photoretrica.png" width="100px">
-</div>
